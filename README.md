@@ -1,4 +1,4 @@
-# Practical Session: Debugging
+# Practical Session: SE Tools
 
 Follow the instructions from the practical session page: [https://github.com/chaphe/se-tools](https://github.com/chaphe/se-tools)
 
@@ -14,8 +14,12 @@ Tutorial from [A GDB Tutorial with Examples](http://www.cprogramming.com/gdb.htm
 Tutorial from [Using Valgrind to Find Memory Leaks and Invalid Memory Use](http://www.cprogramming.com/debugging/valgrind.html)
 
 
+## 3 - Make Tutorial
+
+Tutorial from [A Simple Make Tutorial] (http://mrbook.org/blog/tutorials/make/)
+
  
-## 3 - Bug Hunting
+## 4 - Bug Hunting
 
 A list of programs demonstrating the different kind of bus are available in the `exercises` directory.
 Try the different debugging tools on every example to see how they behave and find the bugs.
